@@ -254,7 +254,7 @@ En esta clase trabajaremos sobre Google Collab, y vamos a trabajar en mas detall
 
 ### Clase 18 Introduccion a WordNet
 
-En esta clase continuamos trabajando con recursos lexicos como herramientas de ayuda para el procesamiento del lenguaje natural, WordNet fue uno de los recursos con mas auge y mas uso en diferentes tareas de procesamiento, esta era una base de datos de caracter léxico para le idioma ingles, aunque el deep learning lo ha desplazado.
+WordNet fue uno de los recursos con más auge y uso en diferentes tareas de procesamiento, esta era una base de datos de caracter léxico para el idioma ingles, aunque el deep learning lo ha desplazado.
 
 ![wordnet](src/wordnet.png)
 
