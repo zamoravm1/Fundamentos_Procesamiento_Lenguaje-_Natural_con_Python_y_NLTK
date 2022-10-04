@@ -1,8 +1,6 @@
 # Fundamentos_Procesamiento_Lenguaje-_Natural_con_Python_y_NLTK
 Curso de Fundamentos de Procesamiento de Lenguaje Natural con Python y NLTK by www.platzi.com 💚
-
-## Cuadernos clase a clase y su contenido
-c1_code.py
-c2_code.py
-### c3_code_language_with_statistics.ipynb
-Bigramas
+Temas que incluyen este curso: Fundamentos de NLP, libreria NLTK, WordNET.
+* Notes - notas de clase
+* Codes - cuadernos elaborados en clase
+* Codes_prof - cuadernos originales del profesor.
